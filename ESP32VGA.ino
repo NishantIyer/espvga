@@ -6,6 +6,7 @@
 
 typedef unsigned short Color;
 
+
 #include "gfx/font6x8.h"
 #include "gfx/thinker.h"
 //#include "gfx/venus.h"
