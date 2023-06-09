@@ -3,6 +3,7 @@
 Welcome to the in-depth technical details of my cutting-edge VGA implementation for the ESP32 microcontroller. This readme.md will provide you with a comprehensive understanding of the intricate workings and optimizations that enable real-time rendering of 3D models and support for various screen resolutions.
 
 ESP32 Enhancements and Performance Tweaks
+
 To achieve superior performance and unlock unprecedented capabilities, I have gone beyond the standard specifications of the ESP32 microcontroller. By applying meticulous tweaks and optimizations, I have pushed the boundaries of the microcontroller's processing power, color depth, and resolution capacity. This allows for the seamless rendering of high-quality 3D models with exceptional speed and precision.
 
 ESP32Lib Arduino Library Development
